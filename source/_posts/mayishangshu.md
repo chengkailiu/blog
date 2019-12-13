@@ -2,7 +2,8 @@
 title: "蚂蚁上树"
 date: 2019-11-04 12:15:26
 cover: /images/cook/c1/0.jpg
-tags: "刘小厨私房菜"
+categories: '刘小厨私房菜'
+tags: "蚂蚁上树"
 ---
 
 ### 用料
